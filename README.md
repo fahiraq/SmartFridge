@@ -1,2 +1,1 @@
-# SmartFridge
-The system for detecting stale or expired food in the refrigerator is in the form of an extension
+Sistem Pendeteksi Bahan Makanan Tidak Layak Konsumsi Menggunakan YOLOv5 Berbasis IoT pada Kulkas
