@@ -30,3 +30,6 @@ Untuk memasang Auto Run pada Raspi dapat menggunakan command berikut:
 3. ctrl x
 4. pilih y untuk rewrite/save command
 5. enter
+#### 4. Instalasi Alat
+Pasangkan komponen-komponen yang telah dipersiapkan sebelumnya (webcam, led, sensor gas) ke Raspberry Pi.
+#### 5. Sistem siap dijalankan 
