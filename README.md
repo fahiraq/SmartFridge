@@ -35,7 +35,10 @@ Untuk memasang Auto Run pada Raspi dapat menggunakan command berikut:
 4. pilih y untuk rewrite/save command
 5. enter
 #### 4. Instalasi Alat
-Pasangkan komponen-komponen yang telah dipersiapkan sebelumnya (webcam, led, sensor gas) ke Raspberry Pi.
+Pasangkan komponen-komponen yang telah dipersiapkan sebelumnya dengan mengikuti gambar rangkaian dibawah ini.
 ![alt text](https://github.com/fahiraq/SmartFridge/blob/main/Rangkaian%20sensor.jpg?raw=true)
+Hubungkan kamera dan relay ke raspberry pi, kemudian relay LED dan baterai hubungkan pada relay.
 ![alt text](https://github.com/fahiraq/SmartFridge/blob/main/rangkaian%20LED.jpg?raw=true)
+Untuk sensor gas membutuhkan bantuan dari Arduino Nano, hubungkan Arduino Nano ke Raspberry Pi terlebih dahulu. Kemudian sensor gas akan dihubungkan ke Arduino Nano.
 #### 5. Sistem siap dijalankan 
+Jangan lupa untuk memastikan raspberry pi telah tersambung dengan daya!
