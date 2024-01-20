@@ -1,10 +1,14 @@
 ## Sistem Pendeteksi Bahan Makanan Tidak Layak Konsumsi Menggunakan YOLOv5 Berbasis IoT pada Kulkas
 ##### Sistem ini merupakan sebuah sistem ekstensi yang dapat mendeteksi citra dan bau dari buah-buahan dan sayur-sayuran untuk menentukan tingkat kesegaran pada buah-buahan dan sayur-sayuran pada kulkas yang akan terhubung pada aplikasi untuk.
+![alt text](https://github.com/fahiraq/SmartFridge/blob/main/alat.jpg?raw=true)
 ### Komponen yang digunakan:
 1. Raspberry Pi 4
-2. Webcam
-3. Sensor Gas (MQ-135)
-4. Led
+2. Arduino Nano
+3. Webcam
+4. Sensor Gas (MQ-135)
+5. Led
+6. Relay
+7. Battery Li-Ion
 ### Cara Menjalankan Sistem:
 #### 1. Install Package/Library
 Sebelum codingan dapat dijalankan, kita perlu mempersiapkan raspberry pi dengan library-library yang akan dibutuhkan untuk object detection dan komunikasi IoT seperti:
@@ -32,4 +36,5 @@ Untuk memasang Auto Run pada Raspi dapat menggunakan command berikut:
 5. enter
 #### 4. Instalasi Alat
 Pasangkan komponen-komponen yang telah dipersiapkan sebelumnya (webcam, led, sensor gas) ke Raspberry Pi.
+![alt text](?raw=true)
 #### 5. Sistem siap dijalankan 
